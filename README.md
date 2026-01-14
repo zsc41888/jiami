@@ -1,40 +1,36 @@
-# ✨ 中文文本加密/解密工具 <span style="display: inline-block; animation: blink 1.5s infinite; color: #FF6B9D; font-size: 0.6em; vertical-align: top;">New!</span>
+# 🔐 简易加密工具
 
-一个简单、轻量的**在线工具**，专门用于对中文文本进行<mark>有趣的加密和解密</mark>操作！
+一个轻量级的在线文本加密/解密工具，由B站小UP主
+【destiny-丨】 https://b23.tv/7NGd8O0
+开发维护。
 
-<style>
-.blink { animation: blink 1.5s steps(2, start) infinite; }
-@keyframes blink { to { visibility: hidden; } }
-.pulse-box {
-    border: 2px solid;
-    border-image: linear-gradient(90deg, #FF6B9D, #4ECDC4, #FFD166) 1;
-    animation: borderPulse 2s infinite;
-}
-@keyframes borderPulse {
-    0% { border-image-source: linear-gradient(90deg, #FF6B9D, #4ECDC4, #FFD166); }
-    50% { border-image-source: linear-gradient(90deg, #FFD166, #FF6B9D, #4ECDC4); }
-    100% { border-image-source: linear-gradient(90deg, #4ECDC4, #FFD166, #FF6B9D); }
-}
-</style>
+## ✨ 功能特性
 
-## 🚀 快速使用
+- **双向加密**：支持文本加密和解密操作
+- **简洁设计**：极简界面，专注于核心功能
+- **完全免费**：无需注册，无任何费用
+- **隐私保护**：所有操作在本地完成，数据不上传服务器
 
-<div class="pulse-box" style="padding: 15px; border-radius: 8px; margin: 20px 0;">
+## 🚀 快速开始
 
-1.  **访问**：[https://zsc41888.github.io/jiami](https://zsc41888.github.io/jiami)
-2.  **加密**：输入中文 → 点击 **“加密”**
-3.  **解密**：输入密文 → 点击 **“解密”**
+访问 加密网页[https://zsc41888.github.io/jiami](https://zsc41888.github.io/jiami) 立即使用
 
-</div>
+访问 我的官网[https://zsc41888.github.io/zscnb](https://zsc41888.github.io/zscnb) 立即使用
 
-## 👥 欢迎加入我们！
+## 🛠️ 使用说明
 
-遇到问题？想分享有趣的加密句子？欢迎加入我们的QQ交流群，与大家一起讨论！
+1. 在输入框中输入需要加密的文本
+2. 设置加密密钥（可选）
+3. 点击“加密”按钮生成加密结果
+4. 加密后的文本可以复制或分享
 
-> 🎯 **QQ群号：`1070356813`**
->
-> <div align="center">
->   <img src="https://via.placeholder.com/150x150/4ECDC4/FFFFFF?text=扫码入群" alt="群二维码占位图" style="border-radius: 10px;"/>
->   <br>
->   <small><i>(提示：此处可替换为你实际的群二维码图片)</i></small>
-> </div>
+## 💬 交流反馈
+
+欢迎加入QQ交流群，共同讨论改进建议：
+
+[![加入QQ群](https://img.shields.io/badge/QQ群-1070356813-blue?style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=your_key_here&authKey=your_auth_key_here&group_code=1070356813)
+
+---
+**声明**：本工具由B站小UP主
+【destiny-丨】 https://b23.tv/7NGd8O0开发
+仅作为技术学习交流使用。
