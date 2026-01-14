@@ -1,33 +1,40 @@
-# 中文文本加密/解密工具
+# ✨ 中文文本加密/解密工具 <span style="display: inline-block; animation: blink 1.5s infinite; color: #FF6B9D; font-size: 0.6em; vertical-align: top;">New!</span>
 
-一个简单、轻量的在线工具，专门用于对中文文本进行有趣的加密和解密操作，保护你的隐私信息或用于娱乐。
+一个简单、轻量的**在线工具**，专门用于对中文文本进行<mark>有趣的加密和解密</mark>操作！
 
-## ✨ 主要功能
-
-*   **中文文本加密**：将普通的中文句子转换成难以直接识别的密文。
-*   **对应解密**：将加密后的密文还原为原始的中文内容。
-*   **纯前端操作**：所有处理均在您的浏览器中完成，无需网络传输，确保数据安全。
-*   **操作简单**：界面简洁，只需输入文本、点击按钮即可完成操作。
+<style>
+.blink { animation: blink 1.5s steps(2, start) infinite; }
+@keyframes blink { to { visibility: hidden; } }
+.pulse-box {
+    border: 2px solid;
+    border-image: linear-gradient(90deg, #FF6B9D, #4ECDC4, #FFD166) 1;
+    animation: borderPulse 2s infinite;
+}
+@keyframes borderPulse {
+    0% { border-image-source: linear-gradient(90deg, #FF6B9D, #4ECDC4, #FFD166); }
+    50% { border-image-source: linear-gradient(90deg, #FFD166, #FF6B9D, #4ECDC4); }
+    100% { border-image-source: linear-gradient(90deg, #4ECDC4, #FFD166, #FF6B9D); }
+}
+</style>
 
 ## 🚀 快速使用
 
-1.  访问网页：[https://zsc41888.github.io/jiami](https://zsc41888.github.io/jiami)
-2.  **加密**：在“原文”框中输入普通中文，点击“加密”，结果将出现在“密文”框。
-3.  **解密**：在“密文”框中输入加密后的文本，点击“解密”，即可在“原文”框看到原始内容。
+<div class="pulse-box" style="padding: 15px; border-radius: 8px; margin: 20px 0;">
 
-## 🔒 使用场景举例
+1.  **访问**：[https://zsc41888.github.io/jiami](https://zsc41888.github.io/jiami)
+2.  **加密**：输入中文 → 点击 **“加密”**
+3.  **解密**：输入密文 → 点击 **“解密”**
 
-*   **隐私保护**：在网络聊天或留言中，对敏感的中文信息（如电话号码、地址等）进行简单加密后发送。
-*   **趣味游戏**：与朋友创建加密小谜语或密信，增加交流的趣味性。
-*   **文本混淆**：对不希望被他人一眼看懂的文字内容进行基础混淆。
+</div>
 
-> **请注意**：此工具采用的是一种简单的、有特定规则的编码方式，主要用于趣味和基础混淆，**并非**用于高安全性要求的强加密。请勿用于加密真正的机密信息。
+## 👥 欢迎加入我们！
 
-## 📁 项目相关
+遇到问题？想分享有趣的加密句子？欢迎加入我们的QQ交流群，与大家一起讨论！
 
-*   这是一个完全由前端技术（HTML, CSS, JavaScript）构建的静态网页。
-*   项目托管于GitHub Pages，可免费访问。
-*   如果你对代码感兴趣或想改进它，欢迎访问项目仓库。
-
----
-*如果这个工具对你有帮助，欢迎分享给朋友！*
+> 🎯 **QQ群号：`1070356813`**
+>
+> <div align="center">
+>   <img src="https://via.placeholder.com/150x150/4ECDC4/FFFFFF?text=扫码入群" alt="群二维码占位图" style="border-radius: 10px;"/>
+>   <br>
+>   <small><i>(提示：此处可替换为你实际的群二维码图片)</i></small>
+> </div>
