@@ -1,8 +1,10 @@
 <img src="https://i.ibb.co/0ppSZ0nt/1767627735393.png" alt="1767627735393" border="0">
 
 # 🔐 简易加密工具
->一个轻量级的在线文本加密/解密工具，由B站小UP主
-【destiny-丨】 https://b23.tv/7NGd8O0
+一个轻量级的在线文本加密/解密工具，由B站小UP主
+>【destiny-丨】
+
+https://b23.tv/7NGd8O0
 开发维护。
 
 # ✨ 功能特性
@@ -42,5 +44,7 @@
 
 ---
 **声明**：本工具由B站小UP主
-【destiny-丨】 https://b23.tv/7NGd8O0开发
-仅作为技术学习交流使用。
+>destiny-丨
+
+https://b23.tv/7NGd8O0
+开发仅作为技术学习交流使用。
